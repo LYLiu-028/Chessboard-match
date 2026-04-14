@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+
+.vscode/
+.codex
+
+match_vis_*.png
+pnp_pointsAB_*.txt
+
+.DS_Store
